@@ -14,6 +14,21 @@
         android:theme="@style/Theme.Unite2"
         tools:targetApi="31">
         <activity
+            android:name=".uyg8activity"
+            android:exported="false" />
+        <activity
+            android:name=".uyg9activity"
+            android:exported="false" />
+        <activity
+            android:name=".ss68activity"
+            android:exported="false" />
+        <activity
+            android:name=".uyg5activity"
+            android:exported="false" />
+        <activity
+            android:name=".Numarik1"
+            android:exported="false" />
+        <activity
             android:name=".ss265_activity"
             android:exported="false" />
         <activity
@@ -32,7 +47,7 @@
             android:name=".uyg2Activity"
             android:exported="false" />
         <activity
-            android:name=".Numarik1"
+            android:name=".uyg10activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
